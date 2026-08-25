@@ -1,6 +1,6 @@
 # Automation Projects
 
-A collection of infrastructure and business automation projects.
+A collection of infrastructure and business automation projects - WIP
 
 ## Projects
 
