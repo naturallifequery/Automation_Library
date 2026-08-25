@@ -1,0 +1,3 @@
+ComputerName,Environment,Owner,Status,CollectedAt,OperatingSystem,BuildNumber,UptimeDays,CpuLoadPercent,MemoryUsedPercent,LowestDiskFreePercent,LastPatchDate,PendingReboot,RequiredServicesStopped,AutomaticServicesStopped,MatchingEvents,Findings,Error
+APP-SRV-01,Production,Applications,Warning,2026-08-22T14:30:15,Microsoft Windows Server 2022 Standard,20348,51.4,18,62,17.4,2026-07-14T00:00:00,True,0,0,2,3,
+FILE-SRV-01,Test,Infrastructure,Healthy,2026-08-22T14:31:02,Microsoft Windows Server 2025 Standard,26100,7.1,6,44,58.2,2026-08-12T00:00:00,False,0,0,0,0,

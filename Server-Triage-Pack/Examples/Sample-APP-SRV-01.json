@@ -1,0 +1,67 @@
+{
+  "ComputerName": "APP-SRV-01",
+  "Environment": "Production",
+  "Owner": "Applications",
+  "PingResponded": true,
+  "Status": "Warning",
+  "Findings": [
+    {
+      "Severity": "Warning",
+      "Category": "Disk",
+      "Message": "D: has 17.4% free (43.5 GB)."
+    },
+    {
+      "Severity": "Warning",
+      "Category": "Patching",
+      "Message": "A restart is pending: Windows Update."
+    },
+    {
+      "Severity": "Warning",
+      "Category": "Uptime",
+      "Message": "Server uptime is 51.4 days. Check the maintenance and reboot history."
+    }
+  ],
+  "CollectedAt": "2026-08-22T14:30:15+01:00",
+  "SystemInfo": {
+    "ComputerName": "APP-SRV-01",
+    "Domain": "LAB.EXAMPLE",
+    "Manufacturer": "Example Virtual Platform",
+    "Model": "Virtual Machine",
+    "OperatingSystem": "Microsoft Windows Server 2022 Standard",
+    "Version": "10.0.20348",
+    "BuildNumber": "20348",
+    "LastBootTime": "2026-07-02T04:44:00+01:00",
+    "UptimeDays": 51.4,
+    "CpuLogicalCount": 4,
+    "CpuLoadPercent": 18,
+    "TotalMemoryGB": 32,
+    "FreeMemoryGB": 12.16,
+    "MemoryUsedPercent": 62,
+    "TimeZone": "GMT Standard Time",
+    "PowerShellVersion": "5.1.20348.5582"
+  },
+  "Disks": [
+    {
+      "Drive": "C:",
+      "VolumeName": "System",
+      "SizeGB": 120,
+      "FreeGB": 34.8,
+      "PercentFree": 29,
+      "Status": "Healthy"
+    },
+    {
+      "Drive": "D:",
+      "VolumeName": "Application",
+      "SizeGB": 250,
+      "FreeGB": 43.5,
+      "PercentFree": 17.4,
+      "Status": "Warning"
+    }
+  ],
+  "PendingReboot": true,
+  "PendingRebootReasons": [
+    "Windows Update"
+  ],
+  "CollectionErrors": [],
+  "SampleData": true
+}
