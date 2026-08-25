@@ -1,4 +1,0 @@
-ComputerName,Environment,Owner
-APP-SRV-01,Production,Applications
-SQL-SRV-01,Production,Database Team
-FILE-SRV-01,Test,Infrastructure
