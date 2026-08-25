@@ -502,4 +502,10 @@ during an incident.
 Released under the MIT License. Use at your own risk. Validate it against your
 environment, policies, security controls, and change-management requirements.
 
+## AI Assistance Disclosure
+
+Generative AI tools were used to assist with aspects of this project’s development, including code drafting, troubleshooting and documentation. All material was reviewed, edited and approved by the author, who retains responsibility for the final content.
+
+Users should independently review and validate all code in a suitable test environment before using it in production.
+
 Version 1.0.0 - 22 August 2026
