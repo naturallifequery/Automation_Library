@@ -1,0 +1,12 @@
+© 2026 Rhyan Jack. All rights reserved.
+
+This publication is provided for educational purposes. Commands, configurations and technical
+recommendations must be validated against the reader’s own environment, security
+requirements, backup arrangements and change control procedures.
+
+Generative AI was used in developing portions of the text and visual content. 
+The author selected, reviewed, edited, structured and designed the final publication.
+Product and company names may be trademarks of their respective owners.
+
+This publication is not affiliated with or endorsed by OpenAI, Microsoft, Google or any other
+technology provider mentioned.

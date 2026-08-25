@@ -1,0 +1,36 @@
+{
+  "EventLookbackHours": 24,
+  "MaxEventsPerLog": 20,
+  "EventLogs": [
+    "System",
+    "Application"
+  ],
+  "EventLevels": [
+    1,
+    2
+  ],
+  "DiskWarningPercentFree": 20,
+  "DiskCriticalPercentFree": 10,
+  "MemoryWarningPercentFree": 15,
+  "UptimeWarningDays": 45,
+  "PatchWarningAgeDays": 35,
+  "PatchCriticalAgeDays": 60,
+  "RequiredServices": [
+    "EventLog",
+    "WinRM",
+    "W32Time"
+  ],
+  "ExcludedAutomaticServices": [
+    "BITS",
+    "DoSvc",
+    "edgeupdate",
+    "gupdate",
+    "MapsBroker",
+    "RemoteRegistry",
+    "sppsvc",
+    "TrustedInstaller",
+    "UsoSvc"
+  ],
+  "CollectListeningPorts": true,
+  "MaxListeningPorts": 40
+}
