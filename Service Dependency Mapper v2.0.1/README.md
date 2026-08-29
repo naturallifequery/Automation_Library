@@ -23,6 +23,8 @@ There is no agent, installer, module, Python runtime, WinRM requirement, web ser
 3. Confirm the report folder, leave **Include stopped services** selected, and click **Scan this computer**.
 4. The report opens in your default browser when the scan completes.
 
+If you encounter issues with the .cmd launching, try running from powershell with an execution policy bypass.
+
 The launcher uses `-ExecutionPolicy Bypass` for that PowerShell process only. It does not permanently alter the computer's execution policy. An execution policy enforced through Group Policy still takes precedence.
 
 ## What the scan does
