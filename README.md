@@ -8,4 +8,4 @@ Download the .Zip file in each tools folder for the full pack.
 
 - [Server Triage Pack](./Server-Triage-Pack/)
 - [Service Dependency Mapper v2.0.1](Service-Dependency-Mapper-v2.0.1)
-- [Hyper-V Dependency Mapper](./Hyper-V-Diagnostic-Report/)
+- [Hyper-V Diagnostic Report](./Hyper-V-Diagnostic-Report/)
