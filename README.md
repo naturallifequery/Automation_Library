@@ -11,5 +11,5 @@ Download the .Zip file in each tools folder for the full pack.
 - [Hyper-V Diagnostic Report](./Hyper-V-Diagnostic-Report/)
 - [TLS Hardenening](./TLS-Hardening-v1.0.1/)
 - [Defender Exclusion Auditor](./Defender-Exclusion-Auditor/)
-- [Conditional Access Matrix](./Conditional_Access_Matrix/)
+- [Conditional Access Matrix](./Conditional-Access-Matrix/)
   
