@@ -1,6 +1,6 @@
 # Automation Projects
 
-A collection of infrastructure and business automation projects - WIP
+A collection of infrastructure and business automation projects aimed at demonstrating PowerShell capabilities - WIP
 
 Download the .Zip file in each tools folder for the full pack. If there's no zip, then just the .ps1.
 
