@@ -2,7 +2,7 @@
 
 A collection of infrastructure and business automation projects - WIP
 
-Download the .Zip file in each tools folder for the full pack.
+Download the .Zip file in each tools folder for the full pack. If there's no zip, then just the .ps1.
 
 ## Projects
 
